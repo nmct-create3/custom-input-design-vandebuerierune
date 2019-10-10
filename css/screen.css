@@ -603,7 +603,7 @@ input::placeholder {
     }
 
     .c-input{
-        background-color: #20223A;
+        background-color: var(--global-color-neutral-xxxx-dark);
 
     }
 .c-card {
